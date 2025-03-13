@@ -1,5 +1,4 @@
-# MyPortfolio
-
+# MyPortfolio gh-pages [link](https://shruthi296.github.io/MyPortfolio/)
 ## Description
 This is a personal portfolio website showcasing my skills, education, and projects. It includes sections for home, about, education, skills, and contact.
 
